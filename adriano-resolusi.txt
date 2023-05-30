@@ -1,4 +1,6 @@
 ADRIANO RESOLUSI
 - Mempelajari Programming Fundamental
 - Mengenal (menentukan) bahasa yang akan ditekuni terlebih dahulu
+- Mengenal Framework untuk mempermudah coding
 - Mebuat sebuah aplikasi atau website implemented untuk Ibu
+- Membuat cloning website atau aplikasi
