@@ -1,4 +1,5 @@
 ADRIANO RESOLUSI
+- Menyelesaikan playlist git & Github di WPU
 - Mempelajari Programming Fundamental
 - Mengenal (menentukan) bahasa yang akan ditekuni terlebih dahulu
 - Mengenal Framework untuk mempermudah coding
